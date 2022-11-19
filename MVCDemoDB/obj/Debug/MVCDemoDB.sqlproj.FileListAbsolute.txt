@@ -1,0 +1,10 @@
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\obj\Debug\MVCDemoDB.sqlprojAssemblyReference.cache
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\obj\Debug\predeploy.sql
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\MIS\source\repos\MVCDEMOWEB\MVCDemoDB\obj\Debug\MVCDemoDB.pdb

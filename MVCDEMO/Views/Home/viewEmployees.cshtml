@@ -1,0 +1,48 @@
+﻿@model IEnumerable<MVCDEMO.Models.EmployeeModel>
+
+@{
+    ViewBag.Title = "viewEmployees";
+}
+
+<h2>viewEmployees</h2>
+
+<p>
+    @Html.ActionLink("Create New", "SignUp")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Firstname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lastname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Emailaddress)
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmployeeId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Firstname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Lastname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Emailaddress)
+        </td>
+        
+    </tr>
+}
+
+</table>
